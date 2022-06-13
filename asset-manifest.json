@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/assets-management/static/css/main.d5e33525.css",
+    "main.js": "/assets-management/static/js/main.c190e2f8.js",
+    "static/media/loading.gif": "/assets-management/static/media/loading.60bd85f7426b54931021.gif",
+    "index.html": "/assets-management/index.html",
+    "main.d5e33525.css.map": "/assets-management/static/css/main.d5e33525.css.map",
+    "main.c190e2f8.js.map": "/assets-management/static/js/main.c190e2f8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5e33525.css",
+    "static/js/main.c190e2f8.js"
+  ]
+}
